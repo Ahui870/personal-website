@@ -1,0 +1,103 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1412/23/aed3ee23ae222a47de532f2bf052ca54.water.jpg_990x390_80359dae.jpg"
+      },{             
+        "id": "1002",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1412/f6/84a112298ccdae50daec5c0967e5c519.water.jpg_990x390_6cdc692f.jpg"
+      },{
+        "id": "2003",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1412/e0/e6df218fababfaee3c0e354fb64522b1.water.jpg_990x390_d21c829d.jpg"
+      },{
+        "id": "3004",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1412/3e/724907d19d082e2be3b01aad90cb4f7f.water.jpg_990x390_4022e386.jpg"
+      },{
+        "id": "5006",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1412/ef/6b69e8c6a7aade13531b2616df5fdddf.water.jpg_990x390_83952819.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "description": "景点门票"
+      },{
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/3e/86314b2af03b7502.png",
+        "description": "水上乐园"
+      },{
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "description": "成都必游"
+      },{
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png",
+        "description": "夏日玩水"
+      },{
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+        "description": "亲子游"
+      },{
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+        "description": "海洋馆"
+      },{
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "description": "一日游"
+      },{
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+        "description": "游乐场"
+      },{
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/95/8d02011d149bdb02.png",
+        "description": "直通车票"
+      },{
+        "id": "0010",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+        "description": "全部玩乐"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1807/ad/ad574bfe6c9e1ceda3.img.png_200x200_ea7a0734.png",
+        "tag": "随买随用",
+        "title": "成都欢乐谷",
+        "commentNum": "16382",
+        "price": "95",
+        "district": "金牛区"
+      },{
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts8/1909/3f/09acd6b77ef8c402.jpg_160x160_f1a0027a.jpg",
+        "tag": "可订明日",
+        "title": "国色天香·水上乐园",
+        "commentNum": "7784",
+        "price": "28",
+        "district": "国色天香"
+      },{
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1612/1d/1d9a740c1f9e0efaa3.img.jpg_200x200_63285bd9.jpg",
+        "tag": "可订明日",
+        "title": "成都海昌极地海洋公园",
+        "commentNum": "85358",
+        "price": "8",
+        "district": "双流县"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/a2/78e4dbcfd45a6d.jpg_r_640x214_7a62b06a.jpg",
+        "title": "成都必游TOP10",
+        "comment": "成都的标志，也是现代人对老成都的记忆"
+      },{
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1507/a0/7087c85d439e4.jpg_r_640x214_4cd56a30.jpg",
+        "title": "远离烧烤模式",
+      "comment": "周末还在搓麻将？快出门赏美景"
+      },{
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/63/0ffcb5c329a19c.jpg_r_640x214_93fd1e5a.jpg",
+        "title": "慢游成都最美古镇",
+        "comment": "拾取一份悠闲，寻觅散落在时光里的幸福"
+      }]
+  }
+}
